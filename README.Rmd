@@ -1,0 +1,72 @@
+---
+title: "SCI JAN-APRIL 2023"
+author: "JOSEPH KAROMO"
+date: "2023-01-04"
+output:
+  pdf_document: default
+  #word_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## **SPS 2247 STATISTICAL COMPUTING I COURSE OUTLINE**
+
+
+KYU/F/ASA/02\
+DEPARTMENT: PURE AND APPLIED SCIENCES\
+PROGRAMME:  BACHELOR OF SCIENCE IN FINANCIAL ENGINEERING \
+YEAR:  2	   SEMESTER:  II\
+UNIT CODE:  SPS 2249	UNIT TITLE:  Statistical Computing I\
+LECTURE HOURS: 45 Hrs.\                                      CREDIT HOURS: 45Hrs   
+Pre-requisites: PROBABILITY AND STATISTICS I \
+LECTURER: KAROMO J.N\
+LECTURER CONTACTS:  EMAIL jkaromo@kyu.ac.ke\      Mobile phone: 0750 903 935	
+
+## Purpose 
+To equip students with the skills to enable them to perform basic statistical analysis using standard statistical software and interpret the results
+
+## Objectives
+By the end of this course the student should be able to;\
+1.	Analyse Statistics using R programming Language.\
+2.	Recognize accuracy or misleading quantitative information.\
+3.	Interpret the results from the data analyzed\
+4.	Use a computer programme in estimation of the measures of central tendency and dispersion.\
+5.	Use a computer to estimate simple linear regression models.\
+6.	 Apply statistical computer packages for handling statistical techniques such as graphics, sampling variability.  Computation of density, distribution and quartile functions for probability distribution.\
+
+## Course work plan
+1. Introduction to R programming:	Definition and Features of R
+2.	R-Data types:	Vectors, Lists,  Matrices,  Arrays, Factors and  Data Frames and their operations. 	
+3.	Measures of Central tendency:	Arithmetic mean, Harmonic Mean, Geometric Mean, Mode, Median and Quartiles.
+4. Measures of Dispersion:	Range, Variance, Kurtosis and Skewness.	
+5. CAT I	
+6. Regression Analysis:	Simple Linear Regression and Correlation coefficient	
+7.	Regression: 	Pearson correlation and spearman Rank correlations	
+8.	Exploratory Data analysis:	Data analysis.	
+9.	Computation of Density: 	Binomial, Poisson, Normal
+10.	CAT II		
+11.	Computation of distributions: 	Gamma, Beta, and Chi-square.
+12.	Computation of Quintiles:	Hyper-geometric distributions and exponential.
+13.	Computation of Density:	Uniform and Weibull distributions.
+14.	Computation of Density:	Uniform and Weibull distributions.
+15. 	EXAMINATION.
+16. 	EXAMINATION.
+
+## Teaching Methods
+
+1.	Lecture: oral presentation generally incorporating additional activities, e.g. writing on a chalk-board, exercises, class questions and discussions, or student presentations.\
+2.	Practical: a laboratory experiment/session as a means of further actively involving students.\
+3.	Tutorial:  to give the students more attention.\
+
+## Instructional Material/Equipment
+Include course notes, black-and white-board, chalk, white-board marker, duster, computer and projector.
+
+## Assessment 
+1.  Written end of semester Examination comprising 70% of the total marks\
+2.  Continuous Assessment Tests within the semester comprising 30% of the total 	 marks (Tests 15%, Practical 10%, Assignment 5%)
+
+## Course Text Books
+1.	Crawley. Statistics: An Introduction Using R John Wiley & Sons, 2005 ISBN 0470-02297-3\
+2.	RV Hogg, JW McKean & AT Craig Introduction to Mathematical Statistics, 6thed. Prentice Hall, 2003 ISBN 0-13-177698-3
