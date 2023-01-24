@@ -70,3 +70,16 @@ solve(A)
 
 y2 <- 2*A-3*B+t(B)-solve(A)
 y2
+
+#Extract Values
+#single value (use sqr brackets[] and the index)
+#ie i for rows and j for columns
+A[3,2]
+#To extract rows, just use the row index
+A[2,]
+#To extract columns, just use the column index
+A[,3]
+
+A[3,2]*B[3,4]
+A[3,3] <- 7
+A
