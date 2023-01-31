@@ -60,10 +60,10 @@ MyData <- MyData[,-c(1,6,8)]
 MyData <- MyData[-c(6,7),]
 MyData
 
-#Fomart values of different culumns
+#Format values of different columns
 MyData$BMI <- format(MyData$BMI,digits = 4)
 MyData
 
-#Replcing values
+#Replacing values
 MyData[6,7] <- "C+"
 MyData
