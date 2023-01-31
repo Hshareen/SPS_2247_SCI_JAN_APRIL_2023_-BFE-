@@ -83,3 +83,21 @@ A[,3]
 A[3,2]*B[3,4]
 A[3,3] <- 7
 A
+
+#Arrays
+MyArray <- array(c("Red","White"),dim = c(3,3,2))
+MyArray
+#Extracting values from an array, use the index
+#i,j,k
+MyArray[2,2,2]
+MyArray[2,3,2]
+
+#Factors
+
+BFE_Heights <- sample(c("Short","medium","Tall"),
+                      69,replace=T, prob=c(0.2,0.5,0.3))
+BFE_Heights
+
+BFE_Heights <- factor(BFE_Heights)
+BFE_Heights
+table(BFE_Heights)
